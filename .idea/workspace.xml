@@ -24,8 +24,8 @@
       <file leaf-file-name="gitexample.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gitexample.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="251">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -191,12 +191,12 @@
       <workItem from="1463126831229" duration="9552000" />
       <workItem from="1463386591258" duration="3469000" />
       <workItem from="1463474730889" duration="54000" />
-      <workItem from="1463572291879" duration="1918000" />
+      <workItem from="1463572291879" duration="4025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18196000" />
+    <option name="totallyTimeSpent" value="20303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1010" extended-state="0" />
@@ -248,8 +248,8 @@
     <entry file="file://$PROJECT_DIR$/html.ex.html" />
     <entry file="file://$PROJECT_DIR$/gitexample.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="251">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding />
         </state>
       </provider>
